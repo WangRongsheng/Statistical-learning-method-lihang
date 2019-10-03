@@ -34,4 +34,4 @@
 
 # 三、课件PPT
 
-请查看ppt文件夹
+请查看[ppt文件夹](https://github.com/WangRongsheng/Statistical-learning-method-lihang/tree/master/ppt)
