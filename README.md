@@ -30,7 +30,7 @@
 
 # 二、代码实现
 
-请查看code文件夹
+请查看[code文件夹](https://github.com/WangRongsheng/Statistical-learning-method-lihang/tree/master/code)
 
 # 三、课件PPT
 
